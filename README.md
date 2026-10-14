@@ -12,9 +12,9 @@
 
 ## 运行方式 · How to run
 
-**方式一（推荐）**：直接双击 `index.html`（或 `ai-evolution-particle-epic.html`），无需服务器、无需构建、无外部图片/字体/音频文件，因此**不会产生任何 CORS 问题**。
+**在线观看（GitHub Pages，已开启）**：<https://daoge96.github.io/ai-evolution-particle-epic/>
 
-**方式二**：若仓库开启 GitHub Pages（Settings → Pages → Branch: `main` / root），可直接在线观看。
+**方式一（推荐）**：直接双击 `index.html`（或 `ai-evolution-particle-epic.html`），无需服务器、无需构建、无外部图片/字体/音频文件，因此**不会产生任何 CORS 问题**。
 
 > 打开后动画自动播放；点击右下角 **♪ 音效** 才会启动 Web Audio（浏览器自动播放策略要求一次用户手势）。
 
